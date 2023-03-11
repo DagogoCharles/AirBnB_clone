@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Toro Jonah| Github:https://github.com/BLACKNINJA007
+peniel melesse| Github:https://github.com/peniel124166
 
-Ayo Hassan| Github:https://github.com/Ayocoding12
+Ayo Hassan| Github:https://github.com/DagogoCharles
