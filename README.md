@@ -171,4 +171,4 @@ The recognizable commands by the interpreter are the following:
 
 peniel melesse| Github:https://github.com/peniel124166
 
-Ayo Hassan| Github:https://github.com/DagogoCharles
+Dagogo Charles| Github:https://github.com/DagogoCharles
